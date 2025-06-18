@@ -1,0 +1,8 @@
+# Ignore mlruns directory
+02-experiment-tracking/mlruns/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
