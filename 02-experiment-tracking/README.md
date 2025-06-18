@@ -2,7 +2,7 @@
 
 - Create environment 
 
-conda create --name myenv python=3.10
+``` python conda create --name myenv python=3.10 ```
 
 - List existing environment
 
@@ -14,7 +14,7 @@ conda activate myenv
 
 - Install package
 
-pip install -r requirements.txt
+`pip install -r requirements.txt
 
 # 2. Run MLFlow
 
